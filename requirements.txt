@@ -1,0 +1,4 @@
+torch==1.7.0
+timm==0.3.2
+torchprofile==0.0.4
+apex
